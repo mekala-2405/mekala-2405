@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on basic python projects like inventory management
-- 🌱 I’m currently learning python from CS50p
+- 🔭 I’m currently working on some basic python projects 
+- 🌱 I have completed Harvard's CS50p course 
 - 📫 How to reach me: mekalaharshvardhanreddy@gmail.com
 - 😄 Pronouns: He/him
 
